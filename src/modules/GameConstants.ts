@@ -144,15 +144,15 @@ export const ROAMING_MAX_CHANCE = 4096;
 export const ROAMING_INCREASED_CHANCE = 3;
 
 // Shinies
-export const SHINY_CHANCE_BATTLE = 8192;
-export const SHINY_CHANCE_DUNGEON = 4096;
+export const SHINY_CHANCE_BATTLE = 1; // Normal value: 8192
+export const SHINY_CHANCE_DUNGEON = 1; // Normal value: 4096
 export const SHINY_CHANCE_STONE = 2048;
 export const SHINY_CHANCE_SAFARI = 1024;
 export const SHINY_CHANCE_SHOP = 1024;
 export const SHINY_CHANCE_BATTLEFRONTIER = 1024;
-export const SHINY_CHANCE_BREEDING = 1024;
-export const SHINY_CHANCE_FARM = 1024;
-export const SHINY_CHANCE_REWARD = 1024;
+export const SHINY_CHANCE_BREEDING = 1; // Normal value: 1024
+export const SHINY_CHANCE_FARM = 1; // Normal value: 1024
+export const SHINY_CHANCE_REWARD = 1; // Normal value: 1024
 
 export const ITEM_PRICE_MULTIPLIER = 1.00045;
 export const ITEM_PRICE_DEDUCT = 1.0005;
